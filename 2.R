@@ -1,0 +1,4 @@
+mass_lb <- 3.5
+print(mass_lb)
+mass_kg <- mass_lb/2.2046
+print(mass_kg)
